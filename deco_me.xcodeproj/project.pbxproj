@@ -13,6 +13,36 @@
 		5F96123E2893CAD100768988 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F96122C2893CAD100768988 /* ContentView.swift */; };
 		5F96123F2893CAD100768988 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F96122D2893CAD100768988 /* Assets.xcassets */; };
 		5F9612402893CAD100768988 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F96122D2893CAD100768988 /* Assets.xcassets */; };
+		5F96124A2893CAEC00768988 /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F9612492893CAEC00768988 /* ItemDetail.swift */; };
+		5F96124B2893CAEC00768988 /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F9612492893CAEC00768988 /* ItemDetail.swift */; };
+		5F96125C2893F2BC00768988 /* ItemReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F96125B2893F2BC00768988 /* ItemReader.swift */; };
+		5F96125D2893F2BC00768988 /* ItemReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F96125B2893F2BC00768988 /* ItemReader.swift */; };
+		5F96125F2893FA3400768988 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F96125E2893FA3400768988 /* MapView.swift */; };
+		5F9612602893FA3400768988 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F96125E2893FA3400768988 /* MapView.swift */; };
+		5F961264289586C600768988 /* items.json in Resources */ = {isa = PBXBuildFile; fileRef = 5F961263289586C600768988 /* items.json */; };
+		5F96126928958DB300768988 /* ItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F96126828958DB300768988 /* ItemView.swift */; };
+		5F96126A28958DB300768988 /* ItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F96126828958DB300768988 /* ItemView.swift */; };
+		5F96126F2896D47000768988 /* ItemSectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F96126E2896D47000768988 /* ItemSectionView.swift */; };
+		5F9612702896D47000768988 /* ItemSectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F96126E2896D47000768988 /* ItemSectionView.swift */; };
+		5F961272289787EF00768988 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F961271289787EF00768988 /* HomeView.swift */; };
+		5F961273289787EF00768988 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F961271289787EF00768988 /* HomeView.swift */; };
+		5F96127528978D5200768988 /* RoomReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F96127428978D5200768988 /* RoomReader.swift */; };
+		5F96127628978D5200768988 /* RoomReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F96127428978D5200768988 /* RoomReader.swift */; };
+		5F9612B028978DC700768988 /* rooms.json in Resources */ = {isa = PBXBuildFile; fileRef = 5F9612AF28978DC700768988 /* rooms.json */; };
+		5F9612B128978DC700768988 /* rooms.json in Resources */ = {isa = PBXBuildFile; fileRef = 5F9612AF28978DC700768988 /* rooms.json */; };
+		5F9612B328978EBC00768988 /* RoomType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F9612B228978EBC00768988 /* RoomType.swift */; };
+		5F9612B428978EBC00768988 /* RoomType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F9612B228978EBC00768988 /* RoomType.swift */; };
+		5F9612B62897917900768988 /* RoomSectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F9612B52897917900768988 /* RoomSectionView.swift */; };
+		5F9612B72897917900768988 /* RoomSectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F9612B52897917900768988 /* RoomSectionView.swift */; };
+		5F9612BB2897BE8B00768988 /* RoomFurnitureSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F9612BA2897BE8B00768988 /* RoomFurnitureSort.swift */; };
+		5F9612BC2897BE8B00768988 /* RoomFurnitureSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F9612BA2897BE8B00768988 /* RoomFurnitureSort.swift */; };
+		5F9612BE2897C78E00768988 /* RoomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F9612BD2897C78E00768988 /* RoomView.swift */; };
+		5F9612BF2897C78E00768988 /* RoomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F9612BD2897C78E00768988 /* RoomView.swift */; };
+		5F9612C7289A127200768988 /* Additional functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F9612C6289A127200768988 /* Additional functions.swift */; };
+		5F9612D5289B76EE00768988 /* ImageDisplay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F9612D4289B76EE00768988 /* ImageDisplay.swift */; };
+		5F9612D6289B76EE00768988 /* ImageDisplay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F9612D4289B76EE00768988 /* ImageDisplay.swift */; };
+		5F9612D8289B795E00768988 /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F9612D7289B795E00768988 /* ImageView.swift */; };
+		5F9612D9289B795E00768988 /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F9612D7289B795E00768988 /* ImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +52,22 @@
 		5F9612322893CAD100768988 /* deco_me.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = deco_me.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F9612382893CAD100768988 /* deco_me.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = deco_me.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F96123A2893CAD100768988 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		5F9612492893CAEC00768988 /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
+		5F96125B2893F2BC00768988 /* ItemReader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemReader.swift; sourceTree = "<group>"; };
+		5F96125E2893FA3400768988 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		5F961263289586C600768988 /* items.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = items.json; sourceTree = "<group>"; };
+		5F96126828958DB300768988 /* ItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemView.swift; sourceTree = "<group>"; };
+		5F96126E2896D47000768988 /* ItemSectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemSectionView.swift; sourceTree = "<group>"; };
+		5F961271289787EF00768988 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		5F96127428978D5200768988 /* RoomReader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoomReader.swift; sourceTree = "<group>"; };
+		5F9612AF28978DC700768988 /* rooms.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = rooms.json; sourceTree = "<group>"; };
+		5F9612B228978EBC00768988 /* RoomType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoomType.swift; sourceTree = "<group>"; };
+		5F9612B52897917900768988 /* RoomSectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoomSectionView.swift; sourceTree = "<group>"; };
+		5F9612BA2897BE8B00768988 /* RoomFurnitureSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoomFurnitureSort.swift; sourceTree = "<group>"; };
+		5F9612BD2897C78E00768988 /* RoomView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoomView.swift; sourceTree = "<group>"; };
+		5F9612C6289A127200768988 /* Additional functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Additional functions.swift"; sourceTree = "<group>"; };
+		5F9612D4289B76EE00768988 /* ImageDisplay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageDisplay.swift; sourceTree = "<group>"; };
+		5F9612D7289B795E00768988 /* ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +102,8 @@
 			children = (
 				5F96122B2893CAD100768988 /* deco_meApp.swift */,
 				5F96122C2893CAD100768988 /* ContentView.swift */,
+				5F96126728958D5D00768988 /* Views */,
+				5F9612572893E64C00768988 /* Model */,
 				5F96122D2893CAD100768988 /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -76,6 +124,76 @@
 				5F96123A2893CAD100768988 /* macOS.entitlements */,
 			);
 			path = macOS;
+			sourceTree = "<group>";
+		};
+		5F9612572893E64C00768988 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				5F9612B82897996800768988 /* Items */,
+				5F9612B92897997600768988 /* Rooms */,
+				5F9612C6289A127200768988 /* Additional functions.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		5F96126728958D5D00768988 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				5F9612C02897CC2C00768988 /* HomePage */,
+				5F9612C22897CC7300768988 /* RoomPage */,
+				5F9612C12897CC5700768988 /* ItemPage */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		5F9612B82897996800768988 /* Items */ = {
+			isa = PBXGroup;
+			children = (
+				5F961263289586C600768988 /* items.json */,
+				5F9612492893CAEC00768988 /* ItemDetail.swift */,
+				5F96125B2893F2BC00768988 /* ItemReader.swift */,
+			);
+			path = Items;
+			sourceTree = "<group>";
+		};
+		5F9612B92897997600768988 /* Rooms */ = {
+			isa = PBXGroup;
+			children = (
+				5F9612AF28978DC700768988 /* rooms.json */,
+				5F9612B228978EBC00768988 /* RoomType.swift */,
+				5F96127428978D5200768988 /* RoomReader.swift */,
+				5F9612BA2897BE8B00768988 /* RoomFurnitureSort.swift */,
+			);
+			path = Rooms;
+			sourceTree = "<group>";
+		};
+		5F9612C02897CC2C00768988 /* HomePage */ = {
+			isa = PBXGroup;
+			children = (
+				5F961271289787EF00768988 /* HomeView.swift */,
+				5F9612B52897917900768988 /* RoomSectionView.swift */,
+			);
+			path = HomePage;
+			sourceTree = "<group>";
+		};
+		5F9612C12897CC5700768988 /* ItemPage */ = {
+			isa = PBXGroup;
+			children = (
+				5F96126828958DB300768988 /* ItemView.swift */,
+				5F9612D4289B76EE00768988 /* ImageDisplay.swift */,
+				5F9612D7289B795E00768988 /* ImageView.swift */,
+				5F96125E2893FA3400768988 /* MapView.swift */,
+			);
+			path = ItemPage;
+			sourceTree = "<group>";
+		};
+		5F9612C22897CC7300768988 /* RoomPage */ = {
+			isa = PBXGroup;
+			children = (
+				5F9612BD2897C78E00768988 /* RoomView.swift */,
+				5F96126E2896D47000768988 /* ItemSectionView.swift */,
+			);
+			path = RoomPage;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -157,6 +275,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5F961264289586C600768988 /* items.json in Resources */,
+				5F9612B028978DC700768988 /* rooms.json in Resources */,
 				5F96123F2893CAD100768988 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -165,6 +285,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5F9612B128978DC700768988 /* rooms.json in Resources */,
 				5F9612402893CAD100768988 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -176,8 +297,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5F9612BB2897BE8B00768988 /* RoomFurnitureSort.swift in Sources */,
+				5F9612BE2897C78E00768988 /* RoomView.swift in Sources */,
+				5F961272289787EF00768988 /* HomeView.swift in Sources */,
+				5F96125F2893FA3400768988 /* MapView.swift in Sources */,
+				5F96126928958DB300768988 /* ItemView.swift in Sources */,
+				5F9612B328978EBC00768988 /* RoomType.swift in Sources */,
+				5F9612D5289B76EE00768988 /* ImageDisplay.swift in Sources */,
 				5F96123D2893CAD100768988 /* ContentView.swift in Sources */,
+				5F9612D8289B795E00768988 /* ImageView.swift in Sources */,
+				5F9612B62897917900768988 /* RoomSectionView.swift in Sources */,
+				5F96124A2893CAEC00768988 /* ItemDetail.swift in Sources */,
+				5F96127528978D5200768988 /* RoomReader.swift in Sources */,
+				5F9612C7289A127200768988 /* Additional functions.swift in Sources */,
+				5F96125C2893F2BC00768988 /* ItemReader.swift in Sources */,
 				5F96123B2893CAD100768988 /* deco_meApp.swift in Sources */,
+				5F96126F2896D47000768988 /* ItemSectionView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -185,8 +320,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5F9612D9289B795E00768988 /* ImageView.swift in Sources */,
+				5F9612BC2897BE8B00768988 /* RoomFurnitureSort.swift in Sources */,
+				5F9612BF2897C78E00768988 /* RoomView.swift in Sources */,
+				5F961273289787EF00768988 /* HomeView.swift in Sources */,
+				5F9612602893FA3400768988 /* MapView.swift in Sources */,
+				5F96126A28958DB300768988 /* ItemView.swift in Sources */,
+				5F9612B428978EBC00768988 /* RoomType.swift in Sources */,
 				5F96123E2893CAD100768988 /* ContentView.swift in Sources */,
+				5F9612B72897917900768988 /* RoomSectionView.swift in Sources */,
+				5F9612D6289B76EE00768988 /* ImageDisplay.swift in Sources */,
+				5F96124B2893CAEC00768988 /* ItemDetail.swift in Sources */,
+				5F96127628978D5200768988 /* RoomReader.swift in Sources */,
+				5F96125D2893F2BC00768988 /* ItemReader.swift in Sources */,
 				5F96123C2893CAD100768988 /* deco_meApp.swift in Sources */,
+				5F9612702896D47000768988 /* ItemSectionView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,143 @@
+[
+    {
+        "id": 1,
+        "name": "Miami Sofa",
+        "desription": "Miami sofa 3 seats and 1 armchair is a minimalist design for modern living room space, high quality fabric sofa material on light gray tones is easy to coordinate with other products. Compact size will be suitable for apartments, or small corners in your house.",
+        "type": "Sofa",
+        "room": "livingroom",
+        "address": "187A Hai Ba Trung Stret, Ward 6, District 3, HCM",
+        "coordinates": {
+            "latitude": 10.785633,
+            "longtitude": 106.6918243
+        },
+        "link": "https://nhaxinh.com/san-pham/sofa-miami-3-cho-1-armchair-2/",
+        "imageLink": ["sofa-miami-1", "sofa-miami-2", "sofa-miami-3"]
+    },
+    {
+        "id": 2,
+        "name": "Pio Table",
+        "desription": "Pio wood dining table is popular with the table top made from luxurious white melamine marble with unique stone patterns. Oval design and slim legs help save dining room space. Pio dining table is the optimal choice for Nordic-style dining room spaces.",
+        "type": "Table",
+        "room": "kitchen",
+        "address": "34 Le Duan Street, Ben Nghe Ward, District 1, HCM",
+        "coordinates": {
+            "latitude": 10.7808978,
+            "longtitude": 106.6964435
+        },
+        "link": "https://nhaxinh.com/san-pham/ban-an-go-pio-6-cho-1m8-mau-2/",
+        "imageLink": ["pio-1", "pio-2", "pio-3"]
+    },
+    {
+        "id": 3,
+        "name": "Iris Bed",
+        "desription": "Iris 1m6 drawer bed with bedside button closure design, especially four large storage compartments that conveniently store bedroom items such as pillows, blankets, and sheets very neatly. Definitely will be the optimal choice for modern bedroom space. Iris pull-out bed has 2 sizes 1m6 and 1m8, diverse colors.",
+        "type": "Bed",
+        "room": "bedroom",
+        "address": "34 Le Duan Street, Ben Nghe Ward, District 1, HCM",
+        "coordinates": {
+            "latitude": 10.7808978,
+            "longtitude": 106.6964435
+        },
+        "link": "https://nhaxinh.com/san-pham/giuong-hoc-keo-iris-1m8-stone/",
+        "imageLink": ["iris-1", "iris-2", "iris-3"]
+    },
+    {
+        "id": 4,
+        "name": "Rattan Fango Table",
+        "desription": "Corner table - Rattan side table complements the modern living room space with a bit of sophistication and functionality. The main materials used are rattan, glass and Melaleuca wood and made in Vietnam.",
+        "type": "Table",
+        "room": "livingroom",
+        "address": "34 Le Duan Street, Ben Nghe Ward, District 1, HCM",
+        "coordinates": {
+            "latitude": 10.7808978,
+            "longtitude": 106.6964435
+        },
+        "link": "https://nhaxinh.com/san-pham/ban-ben-may-mau-2-da-fango/",
+        "imageLink": ["rattan-fango"]
+    },
+    {
+        "id": 5,
+        "name": "Rattan Lamp",
+        "desription": "Product is 100% natural rattan, treated according to the anti-termite process. Products are manufactured according to modern technology and traditional skills of long-time artisans. Safe and user-friendly products",
+        "type": "Lamp",
+        "room": "livingroom",
+        "address": "1st Floor, Me Tri Plaza, CT1B Building, VOV Me Tri, Hanoi",
+        "coordinates": {
+            "latitude": 20.9965978,
+            "longtitude": 105.7802531
+        },
+        "link": "https://mayfurniture.vn/san-pham/den-may-dep",
+        "imageLink": ["rattan-lamp-1", "rattan-lamp-2", "rattan-lamp-3"]
+    },
+    {
+        "id": 6,
+        "name": "Rattan Bed for Kids",
+        "desription": "Product is 100% natural rattan, treated according to the anti-termite process. Products are manufactured according to modern technology and traditional skills of long-time artisans. Safe and user-friendly products",
+        "type": "Bed",
+        "room": "bedroom",
+        "address": "1st Floor, Me Tri Plaza, CT1B Building, VOV Me Tri, Hanoi",
+        "coordinates": {
+            "latitude": 20.9965978,
+            "longtitude": 105.7802531
+        },
+        "link": "https://mayfurniture.vn/san-pham/giuong-may-kids-02",
+        "imageLink": ["rattan-kid-bed-1", "rattan-kid-bed-2", "rattan-kid-bed-3"]
+    },
+    {
+        "id": 7,
+        "name": "Oslo Dining Table",
+        "desription": "Natural rubber wood. Using  rubber wood material  helps the product to have good bearing capacity and high durability. Industrial wood, Rubber wood veneer. The surface of the product is covered  with natural oak veneer  for a delicate, durable, smooth and shiny wood grain surface. At the same time, helping the product not to shrink, crack when the weather changes. PB laminate material meets  CARB-P2 standard  and  FSC certification  is environmentally friendly.",
+        "type": "Table",
+        "room": "kitchen",
+        "address": "162 HT17, Hiep Thanh Ward, District 12, City. Ho Chi Minh City",
+        "coordinates": {
+            "latitude": 10.8786827,
+            "longtitude": 106.6403315
+        },
+        "link": "https://moho.com.vn/products/ban-an-go-cao-su-moho-oslo-901",
+        "imageLink": ["oslo-dining-table-1", "oslo-dining-table-2", "oslo-dining-table-3"]
+    },
+    {
+        "id": 8,
+        "name": "Vline Wooden Wardrobe",
+        "desription": "The OSLO furniture collection is inspired by the hustle and bustle of the Norwegian city of OSLO. OSLO dining table combines many chairs. Dining table has a variety of choices: MILAN dining chair, OSLO dining chair, ODESSA dining chair, PALEMO dining chair, TORINO dining chair.",
+        "type": "Wardrobe",
+        "room": "bedroom",
+        "address": "162 HT17, Hiep Thanh Ward, District 12, City. Ho Chi Minh City",
+        "coordinates": {
+            "latitude": 10.8786827,
+            "longtitude": 106.6403315
+        },
+        "link": "https://moho.com.vn/products/tu-quan-ao-go-moho-vline-601-nhieu-mau-sac",
+        "imageLink": ["vline-wooden-wardrobe", "vline-wooden-wardrobe-2", "vline-wooden-wardrobe-3"]
+    },
+    {
+        "id": 9,
+        "name": "Kramer Acrylics Bathtub",
+        "desription": "With the main material is high quality acrylic which is durable, shiny, good heat resistant and very easy to clean. Moreover, with the anti-slip feature to ensure user safety. Designed with a size of 700×1700×600 mm (length x width x height) to help users enjoy the most comfortable feeling when using. Along with the slope of the tub, gently embracing you in the submerged water. The Kramer  bathtub has a thickly designed wall-mounted tub wall, becoming a small pedestal for the necessary items. With a rounded design at the corners, it creates a luxurious, gentle but attractive look.  Soaking baths  make you feel like you are under a mysterious spell.",
+        "type": "Bathtub",
+        "room": "bathroom",
+        "address": "471 Hoang Van Thu, Ward 4, Tan Binh District, Ho Chi Minh",
+        "coordinates": {
+            "latitude": 10.7965766,
+            "longtitude": 106.6549538
+        },
+        "link": "https://kramer-vn.com/san-pham/bon-tam-nam-nhua-acrylics-kramer-kbt-3004/",
+        "imageLink": ["kramer-1", "kramer-2"]
+    },
+    {
+        "id": 10,
+        "name": "Kramer Outdoor Washbasin",
+        "desription": "Kramer KL-602 washbasin (washbasin) is a luxury product for your bathroom compared to similar  products  on the market. Kramer KL-602 outdoor sink is beautifully designed with delicate lines and ideal curves. Especially the combination of aesthetics and technical features creates an extremely luxurious design.",
+        "type": "Washbasin",
+        "room": "bathroom",
+        "address": "471 Hoang Van Thu, Ward 4, Tan Binh District, Ho Chi Minh",
+        "coordinates": {
+            "latitude": 10.7965766,
+            "longtitude": 106.6549538
+        },
+        "link": "https://kramer-vn.com/san-pham/chau-rua-mat-dat-ngoai-troi-kramer-kl-602/",
+        "imageLink": ["lavabo-kramer-1", "lavabo-kramer-2", "lavabo-kramer-3"]
+    },
+    
+]
