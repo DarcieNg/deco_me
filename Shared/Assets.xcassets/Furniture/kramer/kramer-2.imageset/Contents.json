@@ -6,10 +6,12 @@
       "scale" : "1x"
     },
     {
+      "filename" : "kramer-2@2x.jpeg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
+      "filename" : "kramer-2@3x.jpeg",
       "idiom" : "universal",
       "scale" : "3x"
     }

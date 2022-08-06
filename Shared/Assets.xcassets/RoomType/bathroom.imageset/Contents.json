@@ -6,10 +6,12 @@
       "scale" : "1x"
     },
     {
+      "filename" : "bathroom@2x.jpeg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
+      "filename" : "bathroom@3x.jpeg",
       "idiom" : "universal",
       "scale" : "3x"
     }
